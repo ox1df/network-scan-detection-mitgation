@@ -79,9 +79,8 @@ sudo python pinghawk.py
 🚀 Developed by **Your Name**
 
 🔗 GitHub: [yourgithub.com](https://github.com/ox1df)  
-💬 Telegram: [@yourtelegram](https://t.me/ox1df)
+💬 Telegram: [@shadowstrike](https://t.me/shadowstrike)
 
 ---
 
-**🦅 Stay safe. Stay ahead. Let PingHawk hunt threats for you!**
 
