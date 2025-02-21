@@ -78,8 +78,8 @@ sudo python pinghawk.py
 ## 💀 Author
 🚀 Developed by **Your Name**
 
-🔗 GitHub: [yourgithub.com](https://github.com/ox1df)  
-💬 Telegram: [@shadowstrike](https://t.me/shadowstrike)
+🔗 GitHub: [ox1df](https://github.com/ox1df)  
+💬 Telegram: [Shadowstrike_ru](https://t.me/Shadowstrike_ru)
 
 ---
 
