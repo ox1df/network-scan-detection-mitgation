@@ -1,10 +1,10 @@
 
 
 # Telegram Bot Config
-TELEGRAM_BOT_TOKEN = "7535029044:AAFKDwnJ77PzmQHjS537N_8hDDdTrxbFk4A"
-TELEGRAM_CHAT_ID = "7332175975"  
+TELEGRAM_BOT_TOKEN = "your_token"
+TELEGRAM_CHAT_ID = "chat id"  
 #  AbuseIPDB API Key
-ABUSEIPDB_API_KEY = "107ff450b4e6bede63c1d8e688b99b0e94c6694abd21c763bce8c9fac23edf8174264a9082a69a54"
+ABUSEIPDB_API_KEY = "your_api_key"
 
 
 # EMAIL_FROM = "your_email@gmail.com"
