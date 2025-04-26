@@ -76,7 +76,7 @@ sudo python pinghawk.py
 ---
 
 ## 💀 Author
-🚀 Developed by **Your Name**
+🚀 Developed by **0xffsec**
 
 🔗 GitHub: [ox1df](https://github.com/ox1df)  
 💬 Telegram: [Shadowstrike_ru](https://t.me/Shadowstrike_ru)
